@@ -8,6 +8,7 @@
                        sparkle:version="4.0" sparkle:os="iOS"/>
             <sparkle:version>4.0.0</sparkle:version>
             <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>4.0.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
