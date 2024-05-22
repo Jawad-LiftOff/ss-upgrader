@@ -4,7 +4,7 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Version 0.3.0</title>
-            <enclosure url="https://api.codemagic.io/artifacts/0e5f4a9d-b7e9-4dc2-9453-30596fcf9781/c38c28a4-8fd1-4438-870d-36fa3348c739/SoundStorming.app.zip"
+            <enclosure url="https://ss-ios-app-zip.s3.eu-north-1.amazonaws.com/new-SoundStorming.app.zip"
                        sparkle:version="2.0" sparkle:os="iOS"/>
             <sparkle:version>0.3.0</sparkle:version>
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
