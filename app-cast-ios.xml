@@ -3,12 +3,12 @@
     <channel>
         <title>SoundStorming</title>
         <item>
-            <title>Version 1.4.3</title>
+            <title>Version 1.4.5</title>
             <enclosure url="https://apps.apple.com/us/app/soundstorming/id6502117477"
                        sparkle:version="2.0" sparkle:os="iOS"/>
-            <sparkle:version>1.4.3</sparkle:version>
-            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>1.4.3</sparkle:minimumSystemVersion>
+            <sparkle:version>1.4.5</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>1.4.5</sparkle:minimumSystemVersion>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
